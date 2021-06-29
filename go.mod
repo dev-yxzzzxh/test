@@ -1,4 +1,4 @@
-module example.com/hello
+module test
 
 go 1.15
 
