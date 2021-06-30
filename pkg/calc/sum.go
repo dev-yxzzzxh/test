@@ -7,5 +7,6 @@ func Sum(a ...int) int {
 	for _, i := range a {
 		sum += i
 	}
+	
 	return sum
 }
